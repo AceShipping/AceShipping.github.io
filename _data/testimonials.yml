@@ -1,16 +1,16 @@
-- name: Rose Ray
-  title: CEO-Themefisher
-  testimonial: "This company created an e-commerce site with the tools to make our business a success, with innovative ideas. We feel that our site has unique elements that make us stand out from the crowd."
-  image: img/item-img1.jpg
-- name: Rose Ray sr.
-  title: CEO-Themefisher
-  testimonial: "An e-commerce site was created by this company with the tools to make our business a success, with innovative ideas. We feel that our site has unique elements that make us stand out from the crowd."
-  image: img/item-img1.jpg
-- name: Rose Ray jr.
-  title: CEO-Themefisher
-  testimonial: "With the tools to make our business a success, this company created an e-commerce site, with innovative ideas. We feel that our site has unique elements that make us stand out from the crowd."
-  image: img/item-img1.jpg
-- name: Rose Ray III
-  title: CEO-Themefisher
-  testimonial: "We feel that our site has unique elements that make us stand out from the crowd. This company created an e-commerce site with the tools to make our business a success, with innovative ideas."
-  image: img/item-img1.jpg
+- name: Steve Jobs
+  title: Co-creator of Apple Inc.
+  testimonial: "Technology is nothing. What's important is that you have a faith in people, that they're basically good and smart, and if you give them tools, they'll do wonderful things with them." # Testimonial should be 4 lines
+  image: img/stevejobs.gif # Initial Image was 53x53 but, 100x100 would be better
+- name: Mona Sutphen
+  title: White House Deputy Chief of Staff for Policy
+  testimonial: "Most good relationships are built on mutual trust and respect.</br></br></br>"
+  image: img/mona_sutphen.gif
+- name: Yehuda Berg
+  title: an International Speaker and Author.
+  testimonial: "Words are singularly the most powerful force available to humanity. We can choose to use this force constructively with words of encouragement, or destructively using words of despair."
+  image: img/yehuda_berg.gif
+- name: Confucius
+  title: Ancient Philosopher
+  testimonial: "By three methods we may learn wisdom: First, by reflection, which is noblest; Second, by imitation, which is easiest; and third by experience, which is the bitterest."
+  image: img/confucius.gif
